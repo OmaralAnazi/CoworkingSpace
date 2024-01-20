@@ -16,5 +16,5 @@ The "Coworking Space" project, a guided exercise in the Scrimba Front-End Develo
 To explore different coworking options, clone the repository and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://relaxed-pony-2cc1cd.netlify.app/)
 
